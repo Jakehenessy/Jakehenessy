@@ -11,9 +11,6 @@
 # Hi, I'm Ivan
 
 I'm a junior Linux / Technical Support specialist focused on practical server administration, networking and troubleshooting.
-# Hi, I'm Ivan
-
-I'm a junior Linux / Technical Support specialist focused on practical server administration, networking and troubleshooting.
 
 My experience comes from building and maintaining my own Linux infrastructure rather than tutorial-only labs.
 
