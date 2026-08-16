@@ -1,3 +1,16 @@
+# Привет, я Иван 👋
+
+Начинающий специалист по Linux и технической поддержке.
+
+Практически работал с Ubuntu Server, VPS, SSH, systemd, DNS, TLS, Docker и сетевыми сервисами. Основной опыт получил на собственной серверной инфраструктуре: самостоятельно разворачивал сервисы, настраивал их и диагностировал возникающие проблемы.
+
+Сейчас ищу первую коммерческую позицию в **Technical Support / Linux Support** с дальнейшим развитием в системное администрирование.
+
+---
+
+# Hi, I'm Ivan
+
+I'm a junior Linux / Technical Support specialist focused on practical server administration, networking and troubleshooting.
 # Hi, I'm Ivan
 
 I'm a junior Linux / Technical Support specialist focused on practical server administration, networking and troubleshooting.
