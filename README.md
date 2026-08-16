@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Ivan
 
-<!--
-**Jakehenessy/Jakehenessy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior Linux / Technical Support specialist focused on practical server administration, networking and troubleshooting.
 
-Here are some ideas to get you started:
+My experience comes from building and maintaining my own Linux infrastructure rather than tutorial-only labs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've worked with
+
+- Ubuntu Server 24.04
+- Linux CLI
+- VPS / VDS
+- SSH
+- systemd
+- TCP/IP & UDP
+- DNS
+- HTTP / HTTPS
+- TLS / Let's Encrypt
+- Docker
+- Dante SOCKS5
+- Hysteria 2
+- Xray / VLESS Reality
+- Network and service troubleshooting
+
+## Featured Project
+
+### Linux Networking Lab
+
+My practical Linux networking portfolio includes:
+
+- Dante SOCKS5 proxy with source-IP access control
+- Automatic allowlist updates for clients with dynamic public IPs
+- SSH-based Windows → Linux update workflow
+- Hysteria 2 deployment on Ubuntu Server
+- TLS certificates with Let's Encrypt
+- Salamander traffic obfuscation
+- systemd service management
+- DNS, logs and network socket troubleshooting
+
+➡️ [View Linux Networking Lab](https://github.com/Jakehenessy/linux-networking-lab)
+
+## How I Approach Problems
+
+When something does not work, I prefer to isolate the issue layer by layer:
+
+```text
+Client
+  ↓
+Network
+  ↓
+DNS
+  ↓
+Ports / sockets
+  ↓
+Service
+  ↓
+Logs
+  ↓
+Configuration
+```
+
+I try to understand the actual cause of a problem instead of only applying a temporary workaround.
+
+## Currently
+
+I'm looking for my first commercial position in:
+
+**Technical Support / Linux Support**
+
+with the goal of continuing toward:
+
+**Linux System Administration**
